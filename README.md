@@ -23,11 +23,8 @@ The SQL insert statements will be generated and saved to the ./custom_output, ./
 
 The generated SQL file can be executed against a database to insert the data from the CSV file.
 
-Clone the repository:
 
-<https://github.com/huboo-technologies/second-line-support.git>
-
-1.Navigate to the csv_SQL:
+1.Navigate to CSV_SQL:
 
   run cd CSV_SQL
 
