@@ -1,0 +1,8 @@
+huboo_box,shipping_service_code,origin_region,destination_region,container_id,weight,description,price,currency,additional_price_per_kilo,surcharge,created_at,updated_at
+3752,DPINTTR,GB,AD,1,100,DeutschePost Letter Tracked + 1st Pick,8.6,GBP,0,0,,
+3752,DPINT,GB,AD,1,100,DeutschePost Letter Standard + 1st Pick,2.2,GBP,0,0,,
+3752,DPINTTR,GB,AE,1,100,DeutschePost Letter Tracked + 1st Pick,8.6,GBP,0,0,,
+3752,DPINT,GB,AE,1,100,DeutschePost Letter Standard + 1st Pick,2.2,GBP,0,0,,
+3752,DPINTTR,GB,AF,1,100,DeutschePost Letter Tracked + 1st Pick,5.5,GBP,0,0,,
+3752,DPINT,GB,AF,1,100,DeutschePost Letter Standard + 1st Pick,2.74,GBP,0,0,,
+3752,DPINTTR,GB,AG,1,100,DeutschePost Letter Tracked + 1st Pick,5.5,GBP,0,0,,
